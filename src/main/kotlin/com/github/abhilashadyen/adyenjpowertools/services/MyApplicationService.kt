@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.abhilashadyen.adyenjpowertools.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.abhilashadyen.adyenjpowertools.MyBundle
 
 class MyApplicationService {
 
